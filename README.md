@@ -1,11 +1,12 @@
 ## My solutions to half of the book problems (till chapter 13).
 Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](http://www.deitel.com/Books/C/CHowtoProgram7e/tabid/3472/Default.aspx) <br />
 I also implement some example codes used in the textbook. <br />
-If you're interested in my note, I've also put it here with both docx and pdf versions (myC++Note, half texts are written in Chinese)
+If you're interested in my note (myC++Note), I've also put it here with both docx and pdf versions (half are written in Chinese).
 
 ## Environment
+All my solution codes are successfully compiled by the GNU GCC compiler: <br />
 mingw32-g++.exe, with standard -std=c++14. <br />
-gcc version 5.3.0 (GCC) (One can type command ```g++ -v``` or ```gcc -v``` to check version if gcc has been installed.)
+gcc version 5.3.0 (GCC) (One can type command `g++ -v` or `gcc -v` to check version if gcc has been installed.)
 
 
 ## Chapter List
