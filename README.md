@@ -11,7 +11,7 @@ gcc version 5.3.0 (GCC) (One can type command `g++ -v` or `gcc -v` to check vers
 
 ## Chapter List
 Textbook Examples Code:
-> - **Chapter 1-13** - [Textbook Examples](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Textbook%20Examples)
+> - **Chapter 01-13 Examples** - [Textbook Examples](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Textbook%20Examples)
 
 Textbook Chapter Exercises Code:
 > - **Chapter 01 Exercises** - Introduction to Computers and the Internet and the World Wide Web
