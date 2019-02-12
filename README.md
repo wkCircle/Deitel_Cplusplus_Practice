@@ -1,35 +1,35 @@
-# Project Moved to [gitlab](https://gitlab.com/siidney/Cpp-How-To-Program-9E)
+# This Repository contains my solutions to half of the book problems (till chapter 13).
+## Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](http://www.deitel.com/Books/C/CHowtoProgram7e/tabid/3472/Default.aspx)
+## Also contains some example programs used in the text book.
+I also put my C++ note here with both docx and pdf files.
 
-## Deitel and Deitel - C++ How To Program 9th Edition
+## Chapter List
+Textbook Example Code:
+> - **Chapter1-13** - [Textbook Examples](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Textbook%20Examples)
+Textbook Chapter Exercise Code:
+> - **Chapter 1 Exercises** - Introduction to Computers and the Internet and the World Wide Web
+> - **Chapter 2 Exercises** - Introduction to C++ Programming
+> - **Chapter 3 Exercises** - [Introduction to Classes and Objects](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%203%20%26%204%20Exercises)
+> - **Chapter 4 Exercises** - [Control Statements: Part I](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%203%20%26%204%20Exercises)
+> - **Chapter 5 Exercises** - [Control Statements: Part II](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%205%20Exercises)
+> - **Chapter 6 Exercises** - [Functions and an Introduction to Recursion](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%206%20Exercises)
+> - **Chapter 7 Exercises** - [Arrays and Vectors](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%207%20Exercises)
+> - **Chapter 8 Exercises** - [Pointers](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%208%20Exercises)
+> - **Chapter 9 Exercises** - [Classes: A Deeper Look, Part I](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%209%20Exercises)
+> - **Chapter 10 Exercises** . [Classes: A Deeper Look, Part II](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2010%20Exercises)
+> - **Chapter 11 Exercises** - [Operator Overloading](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2011%20Exercises)
+> - **Chapter 12 Exercises** - [Object-Oriented Programming: Inheritance](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter12%20Exercises)
+> - **Chapter 13 Exercises** - [Object-Oriented Programming: Polymorphism](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter13%20Exercises)
+> - **Chapter 14 Exercises** - Templates
+> - **Chapter 15 Exercises** - Stream Input/Output
+> - **Chapter 16 Exercises** - Exception Handling
+> - **Chapter 17 Exercises** - File Processing
+> - **Chapter 18 Exercises** - Class *string* and String Stream Processing
+> - **Chapter 19 Exercises** - Searching and Sorting
+> - **Chapter 20 Exercises** - Data Structures
+> - **Chapter 21 Exercises** - Bits, Characters, C Strings and *structs*
+> - **Chapter 22 Exercises** - Standard Template Library (STL)
 
-#### My solutions to most, eventually all, of the books problems.
-    Also contains the example programs used to introduce topics.
-
-**All solutions compiled with gcc:**  `g++ -o main *.cpp -g -Wall -pipe -O3 --std=c++14 -lm`
-
-## Chapter List (Updated as they are started)
-
-> - **Chapter 1** - Introduction to Computers and C++
-> - **Chapter 2** - [Introduction to C++ Programming](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter02)
-> - **Chapter 3** - [Introduction to Classes, Objects and Strings](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter03)
-> - **Chapter 4** - [Control Statements: Part I](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter04)
-> - **Chapter 5** - [Control Statements: Part II](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter05)
-> - **Chapter 6** - [Functions and an Introduction to Recursion](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter06)
-> - **Chapter 7** - [Arrays and Vectors](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter07)
-> - **Chapter 8** - [Pointers](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter08)
-> - **Chapter 9** - [Classes: A Deeper Look, Part I](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter09)
-> - **Chapter 10** . [Classes: A Deeper Look, Part II](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter10)
-> - **Chapter 11** - [Operator Overloading: Class String](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter11)
-> - **Chapter 12** - [Object-Oriented Programming: Inheritance](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter12)
-> - **Chapter 13** - [Object-Oriented Programming: Polymorphism](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter13)
-> - **Chapter 14** - [Templates](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter14)
-> - **Chapter 15** - [Stream Input/Output](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter15)
-> - **Chapter 16** - [Exception Handling: A Deeper Look](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter16)
-> - **Chapter 17** - [File Processing](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter17)
-> - **Chapter 18** - [Class *string* and String Stream Processing](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter18)
-> - **Chapter 19** - [Searching and Sorting](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter19)
-> - **Chapter 20** - [Custom Templatized Data Structures](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter20)
-> - **Chapter 21** - [Bits, Characters, C String and *structs*](https://gitlab.com/siidney/Cpp-How-To-Program-9E/tree/master/Chapter21)
-> - **Chapter 22** - Standard Template Library (STL)
-> - **Chapter 23** - Boost Libraries, Technical Report I and C++0x
-> - **Chapter 24** - Other Topics
+## Reference
+> - Textbook: C++ how to program 7e (2010), Paul Deitel & Harvey Deitel
+> - Very few of my solution refers to this solution manual: [Instructor's Manual for C++ how to program, 3/e](http://index-of.es/C++/solution%20Manual%20for%20C++%20How%20to%20Program.pdf)(Open source on web)
