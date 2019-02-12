@@ -1,12 +1,13 @@
-# This Repository contains my solutions to half of the book problems (till chapter 13).
-## Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](http://www.deitel.com/Books/C/CHowtoProgram7e/tabid/3472/Default.aspx)
-## Also contains some example programs used in the text book.
-I also put my C++ note here with both docx and pdf files.
+## This Repository contains my solutions to half of the book problems (till chapter 13).
+Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](http://www.deitel.com/Books/C/CHowtoProgram7e/tabid/3472/Default.aspx)
+I also realize some example codes used in the textbook.
+If you're interested my note, I've also put it here with both docx and pdf versions (myC++Note).
 
 ## Chapter List
-Textbook Example Code:
+Textbook Examples Code:
 > - **Chapter1-13** - [Textbook Examples](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Textbook%20Examples)
-Textbook Chapter Exercise Code:
+
+Textbook Chapter Exercises Code:
 > - **Chapter 1 Exercises** - Introduction to Computers and the Internet and the World Wide Web
 > - **Chapter 2 Exercises** - Introduction to C++ Programming
 > - **Chapter 3 Exercises** - [Introduction to Classes and Objects](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%203%20%26%204%20Exercises)
@@ -32,4 +33,4 @@ Textbook Chapter Exercise Code:
 
 ## Reference
 > - Textbook: C++ how to program 7e (2010), Paul Deitel & Harvey Deitel
-> - Very few of my solution refers to this solution manual: [Instructor's Manual for C++ how to program, 3/e](http://index-of.es/C++/solution%20Manual%20for%20C++%20How%20to%20Program.pdf)(Open source on web)
+> - Very few of my solution refers to this solution manual: [Instructor's Manual for C++ how to program, 3/e](http://index-of.es/C++/solution%20Manual%20for%20C++%20How%20to%20Program.pdf)~(Open source)
