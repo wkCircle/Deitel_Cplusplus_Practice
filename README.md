@@ -38,5 +38,5 @@ Textbook Chapter Exercises Code:
 > - **Chapter 22 Exercises** - Standard Template Library (STL)
 
 ## Reference
-> - Textbook: C++ how to program 7e (2010), Paul Deitel & Harvey Deitel
-> - Very few of my solutions refer to the solution manual: [Instructor's Manual for C++ how to program, 3/e](http://index-of.es/C++/solution%20Manual%20for%20C++%20How%20to%20Program.pdf) (Open source)
+- Textbook: C++ how to program 7e (2010), Paul Deitel & Harvey Deitel
+- Very few of my solutions refer to the solution manual: [Instructor's Manual for C++ how to program, 3/e](http://index-of.es/C++/solution%20Manual%20for%20C++%20How%20to%20Program.pdf) (Open source)
