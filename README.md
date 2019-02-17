@@ -1,4 +1,4 @@
-## My solutions to half of the book problems (till chapter 13).
+## My solutions to half of the book problems till chapter 13. (keep updating)
 Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](http://www.deitel.com/Books/C/CHowtoProgram7e/tabid/3472/Default.aspx) <br />
 I also implement some example codes used in the textbook. <br />
 If you're interested in my note (myC++Note), I've also put it here with both docx and pdf versions (half are written in Chinese).
