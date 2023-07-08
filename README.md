@@ -16,17 +16,17 @@ Textbook Examples Code:
 Textbook Chapter Exercises Code:
 > - **Chapter 01 Exercises** - Introduction to Computers and the Internet and the World Wide Web
 > - **Chapter 02 Exercises** - Introduction to C++ Programming
-> - **Chapter 03 Exercises** - [Introduction to Classes and Objects](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%203%20%26%204%20Exercises)
-> - **Chapter 04 Exercises** - [Control Statements: Part I](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%203%20%26%204%20Exercises)
-> - **Chapter 05 Exercises** - [Control Statements: Part II](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%205%20Exercises)
-> - **Chapter 06 Exercises** - [Functions and an Introduction to Recursion](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%206%20Exercises)
-> - **Chapter 07 Exercises** - [Arrays and Vectors](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%207%20Exercises)
-> - **Chapter 08 Exercises** - [Pointers](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%208%20Exercises)
-> - **Chapter 09 Exercises** - [Classes: A Deeper Look, Part I](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%209%20Exercises)
+> - **Chapter 03 Exercises** - [Introduction to Classes and Objects](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2003%20%26%2004%20Exercises)
+> - **Chapter 04 Exercises** - [Control Statements: Part I](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%203%20%26%2004%20Exercises)
+> - **Chapter 05 Exercises** - [Control Statements: Part II](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2005%20Exercises)
+> - **Chapter 06 Exercises** - [Functions and an Introduction to Recursion](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2006%20Exercises)
+> - **Chapter 07 Exercises** - [Arrays and Vectors](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2007%20Exercises)
+> - **Chapter 08 Exercises** - [Pointers](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2008%20Exercises)
+> - **Chapter 09 Exercises** - [Classes: A Deeper Look, Part I](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2009%20Exercises)
 > - **Chapter 10 Exercises** - [Classes: A Deeper Look, Part II](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2010%20Exercises)
 > - **Chapter 11 Exercises** - [Operator Overloading](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2011%20Exercises)
-> - **Chapter 12 Exercises** - [Object-Oriented Programming: Inheritance](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter12%20Exercises)
-> - **Chapter 13 Exercises** - [Object-Oriented Programming: Polymorphism](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter13%20Exercises)
+> - **Chapter 12 Exercises** - [Object-Oriented Programming: Inheritance](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2012%20Exercises)
+> - **Chapter 13 Exercises** - [Object-Oriented Programming: Polymorphism](https://github.com/wkCircle/Deitel_Cplusplus_Practice/tree/master/Chapter%2013%20Exercises)
 > - **Chapter 14 Exercises** - Templates
 > - **Chapter 15 Exercises** - Stream Input/Output
 > - **Chapter 16 Exercises** - Exception Handling
