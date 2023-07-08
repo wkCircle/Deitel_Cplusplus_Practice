@@ -1,5 +1,8 @@
 ## My solutions to half of the book problems till chapter 13. (keep updating)
 Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](https://www.informit.com/store/c-plus-plus-how-to-program-9780136117261) <br />
+ISBN-10: 0136117260
+ISBN-13: 9780136117261
+
 I also implement some example codes used in the textbook. <br />
 If you're interested in my note (myC++Note), I've also put it here with both docx and pdf versions (half are written in Chinese).
 
