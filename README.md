@@ -1,16 +1,20 @@
-## My solutions to half of the book problems till chapter 13. (keep updating)
+## My solutions to half of the book problems till chapter 13. (keep updated)
 Textbook: [C++ how to program 7e(2010), Paul Deitel & Harvey Deitel](https://www.informit.com/store/c-plus-plus-how-to-program-9780136117261) <br />
 ISBN-10: 0136117260
 ISBN-13: 9780136117261
 
-I also implement some example codes used in the textbook. <br />
-If you're interested in my note (myC++Note), I've also put it here with both docx and pdf versions (half are written in Chinese).
+## Try It Yourself! Online C++ Editor.
+There are many 3rd party C++ online edtors that you can use to try and execute my solutions. For example: 
+- [Online-CPP.com](https://www.online-cpp.com/)
 
-## Environment
+With it, you simply need to create `.cpp` and `.hpp` files, copy-paste the code, and execute the code. <br>
+For example, we can execute the code of [Exercise 7.20: Airline Reservation System](https://www.online-cpp.com/z6xO9DwGeE).
+
+
+## Local Environment
 All my solution codes are successfully compiled by the GNU GCC compiler: <br />
 mingw32-g++.exe, with standard -std=c++14. <br />
 gcc version 5.3.0 (GCC) (One can type command `g++ -v` or `gcc -v` to check version if gcc has been installed.)
-
 
 ## Chapter List
 Textbook Examples Code:
